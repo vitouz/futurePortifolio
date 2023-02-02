@@ -1,8 +1,15 @@
+
 import styled from "styled-components";
+
 
 export const Container = styled.div`
 .colored:nth-child(1) {
-background: #dfffd9;
+ background: url(https://user-images.githubusercontent.com/112439603/207361144-cabe26b7-cba2-48bd-9742-0b5f4472f7d3.PNG);
+ background-repeat: no-repeat;
+ background-size: 1000px;
+ background-position: center;
+background-color: black;
+ 
 }
 .colored:nth-child(2) {
 background: #dfffd9;
